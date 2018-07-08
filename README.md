@@ -1,0 +1,2 @@
+# ks
+CentOS kickstart files
